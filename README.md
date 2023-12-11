@@ -18,11 +18,10 @@
  ## Coach System
 
    - first coach will craete account `Signup`
-
-  ![Coach registration](https://github.com/Atveek/TM000468/assets/115652544/4c5e7ab3-b75a-401c-a554-06f3e28db654)
+  <img src="https://github.com/Atveek/TM000468/assets/115652544/4c5e7ab3-b75a-401c-a554-06f3e28db654"  width="500px"/>
 
    - after login coach get a dashboard like this 
 
-   ![Coach dashboard](https://github.com/Atveek/TM000468/assets/115652544/b749ad5c-9796-49ea-a2b7-45f6e25d3ab3)
+   <img src="https://github.com/Atveek/TM000468/assets/115652544/b749ad5c-9796-49ea-a2b7-45f6e25d3ab3"  width="800px"/>
 
  
