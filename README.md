@@ -13,7 +13,7 @@
 
 # Home page
 
-  ![Home page](https://github.com/Atveek/TM000468/assets/115652544/d9542f94-5a1d-4b61-8c19-c87a202fa08b)
+  ![Home page](https://github.com/Atveek/TM000468/assets/115652544/d9542f94-5a1d-4b61-8c19-c87a202fa08b | width=500)
   
  ## Coach System
 
