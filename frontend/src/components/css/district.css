@@ -1,0 +1,30 @@
+.sidebar {
+  display: inline-block;
+  width: 75%;
+  font-size: 20px;
+  margin-left: 330px;
+  background-color: #fff2d8;
+  height: 764px;
+}
+
+.districtbox {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ead7bb;
+  width: 300px;
+  height: 150px;
+  border-radius: 25px;
+  border: 2px solid black;
+  color: black;
+  font-size: 30px;
+  text-decoration: none;
+  margin: 20px 10px;
+}
+.districtbox:hover {
+  background-color: #123845;
+  color: white;
+}
+.formargin {
+  margin: 30px 20px;
+}

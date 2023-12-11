@@ -1,0 +1,190 @@
+.box {
+  display: block;
+  position: sticky;
+  height: 84px;
+  width: 100%;
+  z-index: 2;
+}
+
+.box .nav {
+  height: 84px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.box .overlap {
+  -webkit-backdrop-filter: blur(57px) brightness(100%);
+  backdrop-filter: blur(57px) brightness(100%);
+  background-color: #fff4e4;
+  height: 84px;
+  position: relative;
+  width: 100%;
+}
+
+.box .overlap-group {
+  height: 39px;
+  left: 850px;
+  position: absolute;
+  top: 29px;
+  width: 83px;
+}
+
+.box .selected-menu {
+  background-color: #113946;
+  border-radius: 15px;
+  height: 5px;
+  left: 0;
+  position: absolute;
+  top: 34px;
+  width: 83px;
+}
+
+.box .text-wrapper {
+  color: #000000;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 5px;
+  letter-spacing: 1.08px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.box .div {
+  color: #000000;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 990px;
+  letter-spacing: 1.08px;
+  line-height: normal;
+  position: absolute;
+  top: 29px;
+}
+
+.box .text-wrapper-2 {
+  color: #000000;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 874px;
+  letter-spacing: 1.08px;
+  line-height: normal;
+  position: absolute;
+  top: 29px;
+}
+
+.box .text-wrapper-3 {
+  color: #000000;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 1130px;
+  letter-spacing: 1.08px;
+  line-height: normal;
+  position: absolute;
+  top: 29px;
+}
+
+.box .login-button {
+  all: unset;
+  box-sizing: border-box;
+  height: 48px;
+  left: 1270px;
+  position: absolute;
+  top: 22px;
+  width: 130px;
+}
+
+.box .div-wrapper {
+  background-color: #113946;
+  border-radius: 12px;
+  height: 48px;
+  position: relative;
+  width: 128px;
+}
+
+.box .text-wrapper-4 {
+  color: #fff4e4;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 31px;
+  letter-spacing: 0.84px;
+  line-height: normal;
+  position: absolute;
+  top: 7px;
+}
+
+.box .logo {
+  height: 53px;
+  left: 36px;
+  position: absolute;
+  top: 28px;
+  width: 321px;
+}
+
+.box .overlap-2 {
+  height: 53px;
+  left: 86px;
+  position: absolute;
+  top: 0;
+  width: 233px;
+}
+
+.box .c-ACHMATE {
+  color: #113946;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 34px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 1.19px;
+  line-height: normal;
+  position: absolute;
+  top: 1px;
+  width: 233px;
+}
+
+.box .ball {
+  height: 47px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 47px;
+}
+
+.box .overlap-3 {
+  height: 44px;
+  left: -1px;
+  position: absolute;
+  top: 1px;
+  width: 79px;
+}
+
+.box .vector {
+  height: 43px;
+  left: 19px;
+  position: absolute;
+  top: 0;
+  width: 35px;
+}
+
+.box .img {
+  height: 43px;
+  left: 43px;
+  position: absolute;
+  top: 0;
+  width: 36px;
+}
+
+.box .vector-2 {
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 15px;
+  width: 30px;
+}

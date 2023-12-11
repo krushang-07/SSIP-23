@@ -1,0 +1,335 @@
+.coach-dashboard {
+  display: inline-block;
+  background-color: #fff2d8;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 75%;
+}
+
+.coach-dashboard .div {
+  background-color: #fff2d8;
+  height: 925px;
+  position: relative;
+  width: 1440px;
+}
+
+.coach-dashboard .overlap {
+  background-color: #113946;
+  height: 925px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 317px;
+}
+
+.coach-dashboard .logo {
+  height: 43px;
+  left: 35px;
+  position: absolute;
+  top: 28px;
+  width: 256px;
+}
+
+.coach-dashboard .navigation {
+  height: 374px;
+  left: 47px;
+  position: absolute;
+  top: 146px;
+  width: 248px;
+}
+
+.coach-dashboard .overlap-group {
+  background-color: #fff2d8;
+  border-radius: 25px;
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 238px;
+}
+
+.coach-dashboard .text-wrapper {
+  color: #000000;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 26px;
+  font-weight: 500;
+  left: 64px;
+  letter-spacing: 0.91px;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.coach-dashboard .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 26px;
+  font-weight: 500;
+  left: 55px;
+  letter-spacing: 0.91px;
+  line-height: normal;
+  position: absolute;
+  top: 261px;
+  white-space: nowrap;
+}
+
+.coach-dashboard .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 26px;
+  font-weight: 500;
+  left: 42px;
+  letter-spacing: 0.91px;
+  line-height: normal;
+  position: absolute;
+  top: 343px;
+  white-space: nowrap;
+}
+
+.coach-dashboard .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 26px;
+  font-weight: 500;
+  left: 81px;
+  letter-spacing: 0.91px;
+  line-height: normal;
+  position: absolute;
+  top: 97px;
+  white-space: nowrap;
+}
+
+.coach-dashboard .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 26px;
+  font-weight: 500;
+  left: 80px;
+  letter-spacing: 0.91px;
+  line-height: normal;
+  position: absolute;
+  top: 179px;
+  white-space: nowrap;
+}
+
+.coach-dashboard .overlap-2 {
+  background-image: url("../img/background-color.svg");
+  background-size: 100% 100%;
+  height: 733px;
+  left: 394px;
+  position: absolute;
+  top: 109px;
+  width: 944px;
+}
+
+.coach-dashboard .text-wrapper-6 {
+  color: #000000;
+  font-family: "Lexend-Regular", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 91px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 406px;
+}
+
+.coach-dashboard .text-wrapper-7 {
+  color: #000000;
+  font-family: "Lexend-Regular", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 112px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 227px;
+}
+
+.coach-dashboard .overlap-3 {
+  height: 56px;
+  left: 48px;
+  position: absolute;
+  top: 170px;
+  width: 868px;
+}
+
+.coach-dashboard .line {
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 30px;
+  width: 868px;
+}
+
+.coach-dashboard .text-wrapper-8 {
+  color: #000000;
+  font-family: "Lexend-Regular", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 43px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.coach-dashboard .overlap-4 {
+  height: 56px;
+  left: 48px;
+  position: absolute;
+  top: 303px;
+  width: 868px;
+}
+
+.coach-dashboard .overlap-5 {
+  height: 55px;
+  left: 48px;
+  position: absolute;
+  top: 457px;
+  width: 868px;
+}
+
+.coach-dashboard .img {
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 29px;
+  width: 868px;
+}
+
+.coach-dashboard .text-wrapper-9 {
+  color: #000000;
+  font-family: "Lexend-Regular", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.coach-dashboard .text-wrapper-10 {
+  color: #000000;
+  font-family: "Lexend-Regular", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 91px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 370px;
+}
+
+.coach-dashboard .text-wrapper-11 {
+  color: #000000;
+  font-family: "Lexend-Regular", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 417px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 78px;
+  width: 228px;
+}
+
+.coach-dashboard .text-wrapper-12 {
+  color: #000000;
+  font-family: "Lexend-Regular", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 655px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 78px;
+  width: 179px;
+}
+
+.coach-dashboard .text-wrapper-13 {
+  color: #000000;
+  font-family: "Lexend-Regular", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 224px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 78px;
+  width: 183px;
+}
+
+.coach-dashboard .profile {
+  height: 116px;
+  left: 53px;
+  position: absolute;
+  top: 43px;
+  width: 118px;
+}
+
+.coach-dashboard .div-wrapper {
+  background-color: #113946;
+  border-radius: 58px;
+  height: 116px;
+  position: relative;
+  width: 116px;
+}
+
+.coach-dashboard .text-wrapper-14 {
+  color: #ffffff;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 64px;
+  font-weight: 500;
+  left: 38px;
+  letter-spacing: 2.24px;
+  line-height: normal;
+  position: absolute;
+  top: 17px;
+  white-space: nowrap;
+  width: 40px;
+}
+
+.coach-dashboard .text-wrapper-15 {
+  color: #000000;
+  font-family: "Lexend-Regular", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 224px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 127px;
+}
+
+.coach-dashboard .overlap-wrapper {
+  height: 55px;
+  left: 1337px;
+  position: absolute;
+  top: 20px;
+  width: 57px;
+}
+
+.coach-dashboard .overlap-6 {
+  background-color: #113946;
+  border-radius: 27.5px;
+  height: 55px;
+  position: relative;
+  width: 55px;
+}
+
+.coach-dashboard .text-wrapper-16 {
+  color: #ffffff;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 26px;
+  font-weight: 500;
+  left: 19px;
+  letter-spacing: 0.91px;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+}

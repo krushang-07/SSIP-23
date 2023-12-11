@@ -1,0 +1,102 @@
+.js {
+  background-color: #fff4e4;
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+body {
+  background-color: #fff4e4;
+}
+
+.welcome {
+  color: #113946;
+
+  font-family: Inter;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.wl {
+  margin-left: 50px;
+
+  padding-top: 50px;
+}
+
+.co {
+  margin-left: 170px;
+}
+
+.fimg {
+  left: 550px;
+  position: absolute;
+  top: 5px;
+}
+
+.ftext {
+  margin-left: 150px;
+  margin-top: 50px;
+  color: rgba(0, 0, 0, 0.85);
+
+  font-family: Lexend;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.ftext span {
+  color: red;
+}
+
+.but {
+  margin-top: 50px;
+  margin-left: 150px;
+}
+.but button {
+  border-radius: 12px;
+  background: #113946;
+  color: white;
+  width: 89px;
+  height: 40px;
+}
+
+.simg {
+  margin-left: 50px;
+  margin-top: 10px;
+  display: inline-block;
+}
+.simg img {
+  width: 550px;
+  height: 520px;
+}
+
+.stext {
+  color: #113946;
+  display: inline-block;
+  font-family: Poppins;
+  /* font-size: 64px; */
+  /* font-style: normal; */
+  font-weight: 500;
+  /* line-height: normal; */
+  letter-spacing: 2.24px;
+  padding: 60px 50px;
+  margin-left: 150px;
+}
+.stext .coach {
+  font-family: Poppins;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: 2.24px;
+}
+.stext span {
+  color: #113946;
+  font-size: 25px;
+  font-family: Lexend;
+  letter-spacing: 1px;
+  line-height: 30px;
+}

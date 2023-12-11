@@ -1,0 +1,38 @@
+.all {
+  width: 1440px;
+  height: 1237px;
+  background: #fff2d8;
+  margin: auto;
+  box-sizing: border-box;
+}
+
+.container-01 {
+  color: #000;
+  font-family: Poppins;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 163%; /* 32.6px */
+  letter-spacing: 0.9px;
+  padding: 30px;
+}
+
+.container-02 {
+  color: #000;
+  font-family: Poppins;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 163%; /* 32.6px */
+  letter-spacing: 0.9px;
+  margin: -25px;
+  padding: 50px;
+}
+
+#c1 {
+  width: 1167px;
+}
+#c2 {
+  width: 1179px;
+  height: 396px;
+}

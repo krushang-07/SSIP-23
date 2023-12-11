@@ -1,0 +1,36 @@
+body {
+  background-color: #fff2d8;
+}
+
+.fimg1 {
+  margin-left: 330px;
+}
+
+.fimg > .img12 {
+  width: 1350px;
+}
+
+.text {
+  color: #000;
+  font-family: Lexend;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 350px;
+  margin-top: 20px;
+}
+
+.desc {
+  margin-left: 350px;
+}
+
+.desc > form > input [type="textarea"] {
+  height: 290px;
+  width: 900px;
+}
+input.asd {
+  margin-top: 10px;
+  width: 1000px;
+  height: 225px;
+}

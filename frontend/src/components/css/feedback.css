@@ -1,0 +1,52 @@
+.feedback {
+  display: inline-block;
+  background-color: #fff4e4;
+  width: 75%;
+}
+
+.image22 {
+  margin-left: 310px;
+}
+
+.image .img10 {
+  width: 1200px;
+}
+
+.lable {
+  color: black;
+  font-size: 30px;
+  font-family: Lexend;
+  font-weight: 400;
+  /* margin: 350px; */
+  margin-left: 450px;
+  margin-top: 30px;
+}
+
+.review form {
+  margin-left: 340px;
+
+  width: "100%";
+  height: "100%";
+  border-radius: 5px;
+}
+
+.review form input[type="textarea"] {
+  height: 290px;
+  width: 1077px;
+}
+
+.review .submit {
+  background-color: #113946;
+  border-radius: 12px;
+  color: #fff4e4;
+  margin-left: 800px;
+  margin-top: 15px;
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: 0.84px;
+  width: 169px;
+  height: 42.708px;
+}
