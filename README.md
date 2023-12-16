@@ -24,4 +24,16 @@
 
    <img src="https://github.com/Atveek/TM000468/assets/115652544/b749ad5c-9796-49ea-a2b7-45f6e25d3ab3"  width="800px"/>
 
+
+   ## Our team 
+
+   atveek dungrani
+   krushang savaliya
+   gauraj rakholiya 
+   krunal rathod
+   aryan rathod
+   meet mandani
+   sneha jadeja
+   mahek poshiya
+
  
